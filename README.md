@@ -1,2 +1,2 @@
 # gtst_course
-hi 
+Hello Everyone
